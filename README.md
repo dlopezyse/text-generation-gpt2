@@ -1,1 +1,2 @@
-# text-generation-gpt2
+# Text Generation with GPT2
+
